@@ -19,7 +19,7 @@
 
 `Установите и запустите memcached.`
 
-![Скриншот 1](ссылка на скриншот 2)
+![Скриншот 1](https://github.com/GromDrn/memcached-redis/blob/main/Screenshots/2mstat.jpg)
 
 
 ---
@@ -28,14 +28,14 @@
 
 `Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.`
 
-![Скриншот 1](ссылка на скриншот 2)
+![Скриншот 1](https://github.com/GromDrn/memcached-redis/blob/main/Screenshots/3mkey.jpg)
 
 ### Задание 4
 
 `Запишите в Redis несколько ключей с любыми именами и значениями.`
 
 
-![Скриншот 1](ссылка на скриншот 2)
+![Скриншот 1](https://github.com/GromDrn/memcached-redis/blob/main/Screenshots/4redis.jpg)
 
 ---
 ## Дополнительные задания (со звездочкой*)
@@ -45,4 +45,4 @@
 `Запишите в Redis ключ key5 со значением типа "int" равным числу 5. Увеличьте его на 5, чтобы в итоге в значении лежало число 10.`
 
 
-![Скриншот 1](ссылка на скриншот 2)
+![Скриншот 1](https://github.com/GromDrn/memcached-redis/blob/main/Screenshots/5incr.jpg)
